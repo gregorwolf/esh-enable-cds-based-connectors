@@ -1,15 +1,15 @@
 {
   "name": "esh-enable-cds-based-connectors",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create abapGit files to enable CDS based search connectors for the Enterprise Search",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js cds-views.txt"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "gregor.wolf@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "nunjucks": "^3.2.2"
   }
